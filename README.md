@@ -1,18 +1,9 @@
 # code-prep-game
 
-📦 Project Structure
-project/
-│
-├── frontend/               # React UI
-├── backend/                # FastAPI backend
-│   ├── app.py
-│   ├── models.py
-│   ├── database.py
-│   ├── auth.py
-│   └── story_data.py
-│
-├── README.md
-├── .gitignore
-└── requirements.txt
+## 📥 Installation
 
-
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/veda131104/code-prep-game.git
+cd code-prep-game
+'''
